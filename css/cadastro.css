@@ -1,0 +1,35 @@
+.corpo {
+    position: relative;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+#titulo{
+    
+    margin-left: 25%;
+    margin-top: 30px;
+    background: gray;
+    width: 45%;
+
+}
+
+.row {
+    margin: 10px;
+}
+
+body{
+    background: -webkit-repeating-linear-gradient(left, black, cyan) ;
+    color: white;
+}
+
+
+#container{
+      
+    margin-left: 25%;
+    margin-top: 3%;
+}
+#botoes{
+      
+    margin-left: 25%;
+    margin-top: 3%;
+}
