@@ -9,3 +9,13 @@
  .planejamento{
      width: 95%;
  }
+ #texto {
+     text-decoration-color: aliceblue;
+    position: absolute;
+    font-size: 32px;
+    left: 250px;
+    top: 135px;
+  }
+  p{
+      text-align: justify;
+  }
