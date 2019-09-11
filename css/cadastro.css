@@ -17,7 +17,7 @@
     margin: 10px;
 }
 
-body{
+#cont{
     background: -webkit-repeating-linear-gradient(left, black, cyan) ;
     color: white;
 }
